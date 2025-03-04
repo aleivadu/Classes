@@ -6,5 +6,9 @@ public class Main {
         System.out.println(ivanna);
         System.out.println(yeison.studentId);
         System.out.println(ivanna.studentId);
+
+        yeison.tellInfo();
+        yeison.repeatAfter("Hola?");
     }
+
 }
